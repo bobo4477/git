@@ -1,0 +1,3 @@
+git fetch = 看一眼 GitHub 有没有新提交
+git pull  = 把 GitHub 的新提交下载并合并到本地
+git push  = 把你的本地提交上传到 GitHub
